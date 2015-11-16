@@ -1,0 +1,60 @@
+﻿# Directories #
+/build/
+/bin/
+target/
+generated-java/
+logs/
+node_modules/
+test-output/
+out/
+*.class
+ 
+# Package Files #
+*.war
+*.ear
+*.db
+ 
+######################
+# Windows
+######################
+ 
+# Windows image file caches
+Thumbs.db 
+ 
+# Folder config file
+Desktop.ini
+
+######################
+# OS X
+######################
+.DS_Store
+
+# Thumbnails
+._*
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+######################
+# Eclipse
+######################
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+.classpath
+.settings/
+build/
+
+######################
+# IntelliJ IDEA
+######################
+.idea/
+
+######################
+Services générés jaxws
+######################
+generated-java/**
