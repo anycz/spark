@@ -1,0 +1,2789 @@
+[
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "aa4fdfcf9deaa3215b6b5d9ca9dffa7f1cc19deb",
+    "fields": {
+      "annee_pla": "1935",
+      "objectid": 6,
+      "adresse": "Quai Branly, avenue de La Motte-Piquet, avenue de la Bourdonnais, avenue de Suffren",
+      "espece": "pomifera",
+      "arrondisse": "7",
+      "hauteur": 13.0,
+      "geom_x_y": [
+        48.857140828999995,
+        2.29533455314
+      ],
+      "genre": "Maclura",
+      "nom_commun": "Oranger des Osages",
+      "nom_ev": "Parc du Champs de Mars",
+      "famille": "Moraceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.29533455314,
+        48.857140828999995
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "24ba7759afa7aa669658ec124f6695e1bb4b2eeb",
+    "fields": {
+      "annee_pla": "1854",
+      "objectid": 11,
+      "adresse": "Cours-la-Reine, avenue Franklin-D.-Roosevelt, avenue Matignon, avenue Gabriel",
+      "espece": "decurrens",
+      "arrondisse": "8",
+      "hauteur": 20.0,
+      "geom_x_y": [
+        48.8685686134,
+        2.31331809304
+      ],
+      "nom_ev": "Jardin des Champs Elys\u00e9es",
+      "genre": "Calocedrus",
+      "nom_commun": "C\u00e8dre \u00e0 encens",
+      "circonf": 195.0,
+      "famille": "Cupressaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.31331809304,
+        48.8685686134
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "f1806103738924e570e8007750dd563c74a3c5e9",
+    "fields": {
+      "annee_pla": "1862",
+      "objectid": 14,
+      "adresse": "Place d'Estienne-d'Orves",
+      "espece": "fraxinifolia",
+      "arrondisse": "9",
+      "hauteur": 22.0,
+      "geom_x_y": [
+        48.87681916379999,
+        2.33210374339
+      ],
+      "nom_ev": "Square Etienne d'Orves",
+      "genre": "Pterocarya",
+      "nom_commun": "P\u00e9rocarya du Caucase",
+      "circonf": 330.0,
+      "famille": "Juglandaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.33210374339,
+        48.87681916379999
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "f3bb1690c4e5f151897c5be108def30104fdf507",
+    "fields": {
+      "annee_pla": "1906",
+      "objectid": 16,
+      "adresse": "27, boulevard Soult",
+      "espece": "australis",
+      "arrondisse": "12",
+      "hauteur": 16.0,
+      "geom_x_y": [
+        48.83733238939999,
+        2.40776275516
+      ],
+      "nom_ev": "Avenue 27 boulevard Soult",
+      "genre": "Celtis",
+      "nom_commun": "Micocoulier de Provence",
+      "circonf": 295.0,
+      "famille": "Cannabaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.40776275516,
+        48.83733238939999
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "f8cb013210e6a3af114197a4af519157688c924f",
+    "fields": {
+      "annee_pla": "1784",
+      "objectid": 19,
+      "adresse": "route ronde des Minimes",
+      "espece": "petraea",
+      "arrondisse": "12",
+      "hauteur": 30.0,
+      "geom_x_y": [
+        48.8341842636,
+        2.46130493573
+      ],
+      "nom_ev": "Bois de Vincennes (lac des minimes)",
+      "genre": "Quercus",
+      "nom_commun": "Ch\u00eane rouvre",
+      "circonf": 430.0,
+      "famille": "Fagaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.46130493573,
+        48.8341842636
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "d01498d2d6fb6b71fb4cc2713206a4ee24c4a8ca",
+    "fields": {
+      "annee_pla": "1860",
+      "objectid": 21,
+      "adresse": "Ile de Bercy",
+      "espece": "x acerifolia",
+      "arrondisse": "12",
+      "hauteur": 45.0,
+      "geom_x_y": [
+        48.8325900983,
+        2.41116455985
+      ],
+      "nom_ev": "Bois de Vincennes (\u0152le de Bercy)",
+      "genre": "Platanus",
+      "nom_commun": "Platane commun",
+      "circonf": 405.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.41116455985,
+        48.8325900983
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "9b2dd2b0c78270972f0834109b179b1c09765ff1",
+    "fields": {
+      "annee_pla": "1840",
+      "objectid": 26,
+      "adresse": "Bd Jourdan, avenue Reille, rue Gazan, rue de la Cit\u00e9\u201a-Universitaire, rue Nansouty",
+      "espece": "x acerifolia",
+      "arrondisse": "14",
+      "hauteur": 40.0,
+      "geom_x_y": [
+        48.8226749117,
+        2.33869560229
+      ],
+      "nom_ev": "Parc Montsouris",
+      "genre": "Platanus",
+      "nom_commun": "Platane commun",
+      "circonf": 580.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.33869560229,
+        48.8226749117
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "a528d4d808f1742c16581bbfa08006c3efa44dc5",
+    "fields": {
+      "annee_pla": "1933",
+      "objectid": 28,
+      "adresse": "Rue Th\u201aophraste-Renaudot, rue L\u201aon-Lhermitte, rue Jean Formig\u201a, rue du Docteur Jacquem",
+      "espece": "glutinosa",
+      "arrondisse": "15",
+      "hauteur": 16.0,
+      "geom_x_y": [
+        48.842811800599996,
+        2.2972574926
+      ],
+      "nom_ev": "Square Saint Lambert",
+      "genre": "Alnus",
+      "nom_commun": "Aulne glutineux",
+      "circonf": 220.0,
+      "famille": "Betulaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2972574926,
+        48.842811800599996
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "6e26247070f22e56ae7d311687367c1052214547",
+    "fields": {
+      "objectid": 30,
+      "adresse": "Avenue Foch",
+      "espece": "hippocastanum",
+      "arrondisse": "16",
+      "hauteur": 30.0,
+      "geom_x_y": [
+        48.8717782491,
+        2.27973325759
+      ],
+      "nom_ev": "Avenue Foch",
+      "genre": "Aesculus",
+      "nom_commun": "Marronnier d'Inde",
+      "circonf": 505.0,
+      "famille": "Sapindaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.27973325759,
+        48.8717782491
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "7d35fca6f3c0c1e112d28a43752d99cd80e88e3a",
+    "fields": {
+      "annee_pla": "1913",
+      "objectid": 46,
+      "adresse": "Rue Manin, rue Botzaris",
+      "espece": "biloba",
+      "arrondisse": "19",
+      "hauteur": 33.0,
+      "geom_x_y": [
+        48.8802898189,
+        2.38157469859
+      ],
+      "nom_ev": "Parc des Buttes Chaumont",
+      "genre": "Ginkgo",
+      "nom_commun": "Arbre aux quarante \u00e9cus",
+      "circonf": 230.0,
+      "famille": "Ginkgoaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.38157469859,
+        48.8802898189
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "ac41dfb30ae93c3be2bdcafe38b30beca3e4773b",
+    "fields": {
+      "objectid": 52,
+      "adresse": "Boulevard d'Alg\u00e9rie",
+      "espece": "excelsior",
+      "arrondisse": "19",
+      "hauteur": 30.0,
+      "geom_x_y": [
+        48.8820015094,
+        2.39836942721
+      ],
+      "nom_ev": "Square de la Butte du Chapeau Rouge",
+      "genre": "Fraxinus",
+      "nom_commun": "Fr\u00eane commun",
+      "circonf": 365.0,
+      "famille": "Oleaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.39836942721,
+        48.8820015094
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "e086f76bf3607a360909d80763c5d50ee5c9d40c",
+    "fields": {
+      "objectid": 53,
+      "adresse": "3 avenue de la Porte d'Auteuil, 1 avenue Gordon Benett",
+      "espece": "giraldii",
+      "arrondisse": "16",
+      "hauteur": 35.0,
+      "geom_x_y": [
+        48.846044762,
+        2.2529555706
+      ],
+      "nom_ev": "Jardin des Serres d'Auteuil",
+      "genre": "Ailanthus",
+      "nom_commun": "Ailanthe",
+      "circonf": 460.0,
+      "famille": "Simaroubaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2529555706,
+        48.846044762
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "508df9ed5f13d500813158c8eacecd57880ba961",
+    "fields": {
+      "annee_pla": "1862",
+      "objectid": 56,
+      "adresse": "Berge du lac Inf\u00e9rieur",
+      "espece": "distichum",
+      "arrondisse": "16",
+      "hauteur": 35.0,
+      "geom_x_y": [
+        48.8606198209,
+        2.2599223736999994
+      ],
+      "nom_ev": "Bois de Boulogne (Berge du lac inf\u00e9rieur)",
+      "genre": "Taxodium",
+      "nom_commun": "Cypr\u00e9s chauve",
+      "circonf": 350.0,
+      "famille": "Taxodiaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2599223736999994,
+        48.8606198209
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "af8fa63975608df2cd707da650122d56bb15f4bd",
+    "fields": {
+      "objectid": 58,
+      "adresse": "Route de la Ferme, route de la Pyramide",
+      "espece": "kaki",
+      "arrondisse": "12",
+      "hauteur": 12.0,
+      "geom_x_y": [
+        48.8232165418,
+        2.46016871078
+      ],
+      "nom_ev": "Jardin de l' Ecole Du Breuil",
+      "genre": "Diospyros",
+      "nom_commun": "Kaki",
+      "circonf": 160.0,
+      "famille": "Ebenaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.46016871078,
+        48.8232165418
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "eb50c1576199cc5eadcee79c715c07ca4fef7143",
+    "fields": {
+      "annee_pla": "1850",
+      "objectid": 59,
+      "espece": "giganteum",
+      "arrondisse": "16",
+      "famille": "Taxodiaceae",
+      "geom_x_y": [
+        48.8764503804,
+        2.25765244347
+      ],
+      "genre": "Sequoiadendron",
+      "nom_commun": "S\u00e9quoia g\u00e9ant",
+      "nom_ev": "Bois de Boulogne (Portes Saint james)",
+      "hauteur": 30.0
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.25765244347,
+        48.8764503804
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "7cb63973ecba2984965d398e6b7a902cae36bd53",
+    "fields": {
+      "objectid": 61,
+      "espece": "dioicus",
+      "arrondisse": "16",
+      "hauteur": 10.0,
+      "geom_x_y": [
+        48.8691485018,
+        2.2722412510299996
+      ],
+      "nom_ev": "Square Schumann",
+      "genre": "Gymnocladus",
+      "nom_commun": "Chicot du Canada",
+      "circonf": 162.0,
+      "famille": "Fabaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2722412510299996,
+        48.8691485018
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "0554f43959a45b6f5a0db00c2a896244b23e1d07",
+    "fields": {
+      "annee_pla": "1857",
+      "variete": "Pendula",
+      "objectid": 63,
+      "espece": "sylvatica",
+      "arrondisse": "16",
+      "hauteur": 10.0,
+      "geom_x_y": [
+        48.8615768444,
+        2.25902702441
+      ],
+      "nom_ev": "Bois de Boulogne (petite \u00eele du Lac Inf\u00e9rieur)",
+      "genre": "Fagus",
+      "nom_commun": "H\u00eatre pleureur",
+      "circonf": 200.0,
+      "famille": "Fagaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.25902702441,
+        48.8615768444
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "3dca0f146537e878f8cb0d9537fb6b635740ee1e",
+    "fields": {
+      "annee_pla": "1882",
+      "objectid": 65,
+      "espece": "fraxinifolia",
+      "arrondisse": "16",
+      "hauteur": 27.0,
+      "geom_x_y": [
+        48.8633555664,
+        2.26174532022
+      ],
+      "nom_ev": "Bois de Boulogne (Berge du lac inf\u00e9rieur)",
+      "genre": "Pterocarya",
+      "nom_commun": "P\u00e9rocarya du Caucase",
+      "circonf": 400.0,
+      "famille": "Juglandaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.26174532022,
+        48.8633555664
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "2cc5dfa042cfe17e0d057e7286d690e30bbc094a",
+    "fields": {
+      "annee_pla": "1872",
+      "objectid": 67,
+      "adresse": "Route de la Grande Cascade, carrefour de la Croix Catelan",
+      "espece": "giganteum",
+      "arrondisse": "16",
+      "geom_x_y": [
+        48.8646024472,
+        2.25171449183
+      ],
+      "nom_ev": "Bois de Boulogne (Pr\u00e9 Catelan)",
+      "genre": "Sequoiadendron",
+      "nom_commun": "S\u00e9quoia g\u00e9ant",
+      "circonf": 655.0,
+      "famille": "Taxodiaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.25171449183,
+        48.8646024472
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "c95a8a7758e358491619f62793c72ebd928b34cf",
+    "fields": {
+      "objectid": 69,
+      "adresse": "Route de la Grande Cascade, carrefour de la Croix Catelan",
+      "espece": "nigra",
+      "arrondisse": "16",
+      "hauteur": 30.0,
+      "geom_x_y": [
+        48.865022534,
+        2.2538285063
+      ],
+      "nom_ev": "Bois de Boulogne (Pr\u00e9 Catelan)",
+      "genre": "Pinus",
+      "nom_commun": "Pin noir",
+      "circonf": 250.0,
+      "famille": "Pinaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2538285063,
+        48.865022534
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "949c70f234c72c68335f4a41170869b70f231734",
+    "fields": {
+      "annee_pla": "1843",
+      "objectid": 73,
+      "adresse": "All\u00e9e de Longchamp, route de S\u00e8vres \u00e0 Neuilly",
+      "espece": "orientalis",
+      "arrondisse": "16",
+      "hauteur": 26.0,
+      "geom_x_y": [
+        48.870401704299994,
+        2.24852577475
+      ],
+      "nom_ev": "Bois de Boulogne (Bagatelle)",
+      "genre": "Platanus",
+      "nom_commun": "Platane d'Orient",
+      "circonf": 340.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.24852577475,
+        48.870401704299994
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "44d3400cb8f0be9fdeef35e9fce3965a121cd77a",
+    "fields": {
+      "annee_pla": "1872",
+      "objectid": 83,
+      "espece": "serrata",
+      "arrondisse": "12",
+      "hauteur": 18.0,
+      "geom_x_y": [
+        48.8347628794,
+        2.4202969093599997
+      ],
+      "nom_ev": "Bois de Vincennes (Ecole chiens guide d'aveugle)",
+      "genre": "Zelkova",
+      "nom_commun": "Zelkova du Japon",
+      "circonf": 240.0,
+      "famille": "Ulmaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.4202969093599997,
+        48.8347628794
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "b6df5576ee1f4485caf694dc46da706e96528c8f",
+    "fields": {
+      "annee_pla": "1845",
+      "objectid": 85,
+      "adresse": "route de la ceinture du Lac Daumesnil",
+      "espece": "nigra",
+      "arrondisse": "12",
+      "hauteur": 28.0,
+      "geom_x_y": [
+        48.8333849101,
+        2.4126175672099994
+      ],
+      "nom_ev": "Bois de Vincennes (Lac Daumesnil/porte Dor\u00e9e)",
+      "genre": "Juglans",
+      "nom_commun": "Noyer noir",
+      "circonf": 570.0,
+      "famille": "Juglandaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.4126175672099994,
+        48.8333849101
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "2d33572a68e7f093f7806ac112dd54d318fc6c0b",
+    "fields": {
+      "annee_pla": "1930",
+      "objectid": 87,
+      "adresse": "Ile de Bercy",
+      "espece": "distichum",
+      "arrondisse": "12",
+      "hauteur": 20.0,
+      "geom_x_y": [
+        48.8324049718,
+        2.41169855654
+      ],
+      "nom_ev": "Bois de Vincennes (\u0152le de Bercy)",
+      "genre": "Taxodium",
+      "nom_commun": "Cypr\u00e9s chauve",
+      "circonf": 270.0,
+      "famille": "Taxodiaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.41169855654,
+        48.8324049718
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "3bdb78458fbcf6cfc46589b4b5022771097a10dd",
+    "fields": {
+      "objectid": 95,
+      "adresse": "Route de la Ferme, route de la Pyramide",
+      "espece": "bungeana",
+      "arrondisse": "12",
+      "hauteur": 10.0,
+      "geom_x_y": [
+        48.8213214388,
+        2.4553725196199996
+      ],
+      "nom_ev": "Arboretum Ecole du Breuil",
+      "genre": "Pinus",
+      "nom_commun": "Pin Napol\u00e9on",
+      "circonf": 50.0,
+      "famille": "Pinaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.4553725196199996,
+        48.8213214388
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "344dbd9f1dd7a0c117435be7e474868d80bb648e",
+    "fields": {
+      "annee_pla": "1870",
+      "variete": "Austriaca",
+      "objectid": 97,
+      "adresse": "route de la Tourelle, route du Point de Vue",
+      "espece": "nigra",
+      "arrondisse": "12",
+      "hauteur": 25.0,
+      "geom_x_y": [
+        48.82044956419999,
+        2.4457921919899994
+      ],
+      "nom_ev": "Bois de Vincennes (lac de gravelle)",
+      "genre": "Pinus",
+      "nom_commun": "Pin noir",
+      "circonf": 248.0,
+      "famille": "Pinaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.4457921919899994,
+        48.82044956419999
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "2a177c39435e90c3930bdcf5bec7ff8fc4a9c8e2",
+    "fields": {
+      "annee_pla": "1601",
+      "objectid": 4,
+      "adresse": "Quai de Montebello, rue Lagrange, rue Saint-Julien-le-Pauvre",
+      "espece": "pseudoacacia",
+      "arrondisse": "5",
+      "hauteur": 11.0,
+      "geom_x_y": [
+        48.8520958913,
+        2.34740754195
+      ],
+      "nom_ev": "Square Viviani",
+      "genre": "Robinia",
+      "nom_commun": "Robinier faux-acacia",
+      "circonf": 385.0,
+      "famille": "Fabaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.34740754195,
+        48.8520958913
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "77fb85b0f1e329366ccb54d2b79ac4fce0862c2e",
+    "fields": {
+      "objectid": 7,
+      "adresse": "Quai Branly, avenue de La Motte-Piquet, avenue de la Bourdonnais, avenue de Suffren",
+      "espece": "ulmoides",
+      "arrondisse": "7",
+      "hauteur": 12.0,
+      "geom_x_y": [
+        48.8578717375,
+        2.29706549763
+      ],
+      "nom_ev": "Parc du Champs de Mars",
+      "genre": "Eucommia",
+      "nom_commun": "Arbre \u00e0 gutta-percha",
+      "circonf": 190.0,
+      "famille": "Eucomiaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.29706549763,
+        48.8578717375
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "bbb615e52f9546bdf995bfc6d454da5750e684ad",
+    "fields": {
+      "annee_pla": "1879",
+      "objectid": 10,
+      "adresse": "Boulevard de Courcelles, avenue V\u201alasquez, avenue Van-Dyck, avenue Ruysdael",
+      "espece": "biloba",
+      "arrondisse": "8",
+      "hauteur": 22.0,
+      "geom_x_y": [
+        48.8792159582,
+        2.30640768208
+      ],
+      "nom_ev": "Parc Monceau",
+      "genre": "Ginkgo",
+      "nom_commun": "Arbre aux quarante \u00e9cus",
+      "circonf": 283.0,
+      "famille": "Ginkgoaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.30640768208,
+        48.8792159582
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "c30fc9991754a83af847f83b8ce5e2c23e4a88cd",
+    "fields": {
+      "annee_pla": "1850",
+      "objectid": 12,
+      "adresse": "Cours-la-Reine, avenue Franklin-D.-Roosevelt, avenue Matignon, avenue Gabriel",
+      "espece": "giganteum",
+      "arrondisse": "8",
+      "hauteur": 20.0,
+      "geom_x_y": [
+        48.866969084299996,
+        2.31951408752
+      ],
+      "nom_ev": "Jardin des Champs Elys\u00e9es",
+      "genre": "Sequoiadendron",
+      "nom_commun": "S\u00e9quoia g\u00e9ant",
+      "circonf": 320.0,
+      "famille": "Taxodiaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.31951408752,
+        48.866969084299996
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "842666141ce7ed6c9d3b453a1ddf70675b998569",
+    "fields": {
+      "objectid": 17,
+      "adresse": "Rue Paul-Belmondo, rue Joseph-Kessel, rue de l'Ambroise, rue Fran\u00e7ois-Truffaut",
+      "espece": "x acerifolia",
+      "arrondisse": "12",
+      "hauteur": 35.0,
+      "geom_x_y": [
+        48.8353848188,
+        2.38157245444
+      ],
+      "nom_ev": "Parc de Bercy",
+      "genre": "Platanus",
+      "nom_commun": "Platane commun",
+      "circonf": 510.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.38157245444,
+        48.8353848188
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "c39c6a923d7b000137ae86b357238602f2b1f2e0",
+    "fields": {
+      "annee_pla": "1894",
+      "objectid": 23,
+      "adresse": "Rue Croulebarbe, rue Corvisart, rue Emile-Deslandres, rue des Cordeli\u00e8res",
+      "espece": "hippocastanum",
+      "arrondisse": "13",
+      "hauteur": 18.0,
+      "geom_x_y": [
+        48.8330496955,
+        2.35078878768
+      ],
+      "nom_ev": "Square Ren\u00e9 Le Gall",
+      "genre": "Aesculus",
+      "nom_commun": "Marronnier d'Inde",
+      "circonf": 355.0,
+      "famille": "Sapindaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.35078878768,
+        48.8330496955
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "5f94ca57126cc6d93e411612021152be9e1f2c8c",
+    "fields": {
+      "variete": "Purpurea",
+      "objectid": 25,
+      "adresse": "Bd Jourdan, avenue Reille, rue Gazan, rue de la Cit\u00e9\u201a-Universitaire, rue Nansouty",
+      "espece": "sylvatica",
+      "arrondisse": "14",
+      "hauteur": 30.0,
+      "geom_x_y": [
+        48.822495695399994,
+        2.3366608746
+      ],
+      "nom_ev": "Parc Montsouris",
+      "genre": "Fagus",
+      "nom_commun": "H\u00eatre pourpre",
+      "circonf": 370.0,
+      "famille": "Fagaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.3366608746,
+        48.822495695399994
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "c9f82f18bd599dd5b0b51a2754a587cf3ae728e9",
+    "fields": {
+      "annee_pla": "1935",
+      "objectid": 27,
+      "adresse": "Bd Jourdan, avenue Reille, rue Gazan, rue de la Cit\u00e9\u201a-Universitaire, rue Nansouty",
+      "espece": "sempervirens",
+      "arrondisse": "14",
+      "hauteur": 30.0,
+      "geom_x_y": [
+        48.8220238534,
+        2.33628540112
+      ],
+      "nom_ev": "Parc Montsouris",
+      "genre": "Sequoia",
+      "nom_commun": "S\u00e9quoia sempervirent",
+      "circonf": 335.0,
+      "famille": "Taxodiaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.33628540112,
+        48.8220238534
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "c0fda63a52bc6f1a8ad4677aef53b264aa9f6cc7",
+    "fields": {
+      "annee_pla": "1873",
+      "objectid": 44,
+      "adresse": "Rue Manin, rue Botzaris",
+      "espece": "japonicum",
+      "arrondisse": "19",
+      "hauteur": 10.0,
+      "geom_x_y": [
+        48.8814628758,
+        2.3836738317899995
+      ],
+      "nom_ev": "Parc des Buttes Chaumont",
+      "genre": "Styphnolobium",
+      "nom_commun": "Sophora du Japon",
+      "circonf": 335.0,
+      "famille": "Fabaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.3836738317899995,
+        48.8814628758
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "b1f79990db1302942850c1ae2a3448c6d794d893",
+    "fields": {
+      "annee_pla": "1862",
+      "objectid": 45,
+      "adresse": "Rue Manin, rue Botzaris",
+      "espece": "orientalis",
+      "arrondisse": "19",
+      "hauteur": 34.0,
+      "geom_x_y": [
+        48.8803986732,
+        2.38129958306
+      ],
+      "nom_ev": "Parc des Buttes Chaumont",
+      "genre": "Platanus",
+      "nom_commun": "Platane d'Orient",
+      "circonf": 670.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.38129958306,
+        48.8803986732
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "67dd1c9c13a401a240dfc1ae455181ff99c47ac8",
+    "fields": {
+      "annee_pla": "1833",
+      "objectid": 48,
+      "adresse": "Rue du repos, rue des Rondeaux",
+      "espece": "monspessulanum",
+      "arrondisse": "20",
+      "hauteur": 12.0,
+      "geom_x_y": [
+        48.8619346483,
+        2.39870061217
+      ],
+      "nom_ev": "Cimeti\u00e8re du P\u00e8re Lachaise",
+      "genre": "Acer",
+      "nom_commun": "Erable de Montpellier",
+      "circonf": 225.0,
+      "famille": "Sapindac\u201aes"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.39870061217,
+        48.8619346483
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "f258f90c7a702a9b7ddca0f0716ce560d3d57538",
+    "fields": {
+      "objectid": 57,
+      "adresse": "Rue Manin, rue Botzaris",
+      "espece": "giganteum",
+      "arrondisse": "19",
+      "hauteur": 35.0,
+      "geom_x_y": [
+        48.879759998,
+        2.38064802989
+      ],
+      "nom_ev": "Parc des Buttes Chaumont",
+      "genre": "Sequoiadendron",
+      "nom_commun": "S\u00e9quoia g\u00e9ant",
+      "circonf": 470.0,
+      "famille": "Taxodiaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.38064802989,
+        48.879759998
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "6affc9c75b73691356434bd8dc517720cb71faa7",
+    "fields": {
+      "variete": "Purpurea",
+      "objectid": 60,
+      "espece": "sylvatica",
+      "arrondisse": "16",
+      "hauteur": 18.0,
+      "geom_x_y": [
+        48.8640166469,
+        2.26774597209
+      ],
+      "nom_ev": "Stade Muette",
+      "genre": "Fagus",
+      "nom_commun": "H\u00eatre pourpre",
+      "circonf": 300.0,
+      "famille": "Fagaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.26774597209,
+        48.8640166469
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "ff9c2728e5d2b2debb7ae032b9e2e5d215d13ce2",
+    "fields": {
+      "annee_pla": "1897",
+      "objectid": 68,
+      "adresse": "Route de la Grande Cascade, carrefour de la Croix Catelan",
+      "espece": "kaki",
+      "arrondisse": "16",
+      "hauteur": 14.0,
+      "geom_x_y": [
+        48.864782427799994,
+        2.25120424857
+      ],
+      "nom_ev": "Bois de Boulogne (Pr\u00e9 Catelan)",
+      "genre": "Diospyros",
+      "nom_commun": "Kaki",
+      "circonf": 145.0,
+      "famille": "Ebenaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.25120424857,
+        48.864782427799994
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "75c8c40b2a2fcb833f1ec523e3c2bea0589ca53c",
+    "fields": {
+      "annee_pla": "1850",
+      "objectid": 72,
+      "adresse": "All\u00e9e de Longchamp, route de S\u00e8vres \u00e0 Neuilly",
+      "espece": "giganteum",
+      "arrondisse": "16",
+      "hauteur": 30.0,
+      "geom_x_y": [
+        48.86939390559999,
+        2.2477677333399995
+      ],
+      "nom_ev": "Bois de Boulogne (Bagatelle)",
+      "genre": "Sequoiadendron",
+      "nom_commun": "S\u00e9quoia g\u00e9ant",
+      "circonf": 490.0,
+      "famille": "Taxodiaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2477677333399995,
+        48.86939390559999
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "e4b2e33c696b9a20929a8efa90db2eaf347f2435",
+    "fields": {
+      "annee_pla": "1872",
+      "objectid": 74,
+      "adresse": "Route du Lac \u00e0 Bagatelle",
+      "espece": "x acerifolia",
+      "arrondisse": "16",
+      "hauteur": 40.0,
+      "geom_x_y": [
+        48.867043584,
+        2.25320074406
+      ],
+      "nom_ev": "Bois de Boulogne (Route du Lac \u00e0 Bagatelle)",
+      "genre": "Platanus",
+      "nom_commun": "Platane commun",
+      "circonf": 520.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.25320074406,
+        48.867043584
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "44f832aba2a12f80e1b099ed2c099747d792b483",
+    "fields": {
+      "annee_pla": "1882",
+      "objectid": 76,
+      "adresse": "All\u201ae de Longchamp, carrefour des cascades",
+      "espece": "nigra laricio",
+      "arrondisse": "16",
+      "hauteur": 30.0,
+      "geom_x_y": [
+        48.8630909172,
+        2.2415924268199996
+      ],
+      "nom_ev": "Bois de Boulogne (r\u00e9servoir de la cascade)",
+      "genre": "Pinus",
+      "nom_commun": "Pin de Corse",
+      "circonf": 240.0,
+      "famille": "Pinaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2415924268199996,
+        48.8630909172
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "dc660e1fdb3279bcce4c4eca63a8af5e9dd5f888",
+    "fields": {
+      "annee_pla": "1859",
+      "objectid": 77,
+      "adresse": "All\u00e9e de Longchamp, carrefour des cascades",
+      "espece": "distichum",
+      "arrondisse": "16",
+      "hauteur": 30.0,
+      "geom_x_y": [
+        48.8632834941,
+        2.24066981564
+      ],
+      "nom_ev": "Bois de Boulogne (Grande Cascade)",
+      "genre": "Taxodium",
+      "nom_commun": "Cypr\u00e9s chauve",
+      "circonf": 290.0,
+      "famille": "Taxodiaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.24066981564,
+        48.8632834941
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "b20fbc60ef77bb8dae3873c35549762e0608aeab",
+    "fields": {
+      "annee_pla": "1900",
+      "objectid": 78,
+      "adresse": "avenue de la Belle Gabrielle",
+      "espece": "cappadocicum",
+      "arrondisse": "12",
+      "hauteur": 16.0,
+      "geom_x_y": [
+        48.8400020891,
+        2.46422657197
+      ],
+      "nom_ev": "Bois de Vincennes (pelouse de Fontenay)",
+      "genre": "Acer",
+      "nom_commun": "Erable de Cappadoce",
+      "circonf": 280.0,
+      "famille": "Sapindaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.46422657197,
+        48.8400020891
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "1fd52f0c541f89af02a6afd7d06f2e286810ad52",
+    "fields": {
+      "annee_pla": "1862",
+      "objectid": 81,
+      "adresse": "avenue Daumesnil, Esplanade du Ch\u00e2teau de Vincennes",
+      "espece": "tulipifera",
+      "arrondisse": "12",
+      "hauteur": 35.0,
+      "geom_x_y": [
+        48.8394165343,
+        2.43360205128
+      ],
+      "nom_ev": "Bois de Vincennes (square Carnot)",
+      "genre": "Liriodendron",
+      "nom_commun": "Tulipier de Virginie",
+      "circonf": 305.0,
+      "famille": "Magnoliaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.43360205128,
+        48.8394165343
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "9f87cf6e6da59886c78aacc36a1147a593ff7e88",
+    "fields": {
+      "annee_pla": "1930",
+      "objectid": 88,
+      "adresse": "Ile de Bercy",
+      "espece": "tulipifera",
+      "arrondisse": "12",
+      "hauteur": 22.0,
+      "geom_x_y": [
+        48.8319232533,
+        2.41202933239
+      ],
+      "nom_ev": "Bois de Vincennes (\u0152le de Bercy)",
+      "genre": "Liriodendron",
+      "nom_commun": "Tulipier de Virginie",
+      "circonf": 205.0,
+      "famille": "Magnoliaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.41202933239,
+        48.8319232533
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "6fad042a1d92f140d2630b273eb1d18f6e1e771f",
+    "fields": {
+      "annee_pla": "1870",
+      "objectid": 89,
+      "adresse": "Ile de Bercy",
+      "espece": "baccata",
+      "arrondisse": "12",
+      "hauteur": 5.0,
+      "geom_x_y": [
+        48.83206843319999,
+        2.41182825531
+      ],
+      "nom_ev": "Bois de Vincennes (\u0152le de Bercy)",
+      "genre": "Taxus",
+      "nom_commun": "If commun",
+      "circonf": 140.0,
+      "famille": "Taxaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.41182825531,
+        48.83206843319999
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "c874dc43844521f11c48cea8af556344892d65dd",
+    "fields": {
+      "annee_pla": "1871",
+      "objectid": 92,
+      "adresse": "route de la ceinture du Lac Daumesnil",
+      "espece": "x acerifolia",
+      "arrondisse": "12",
+      "hauteur": 25.0,
+      "geom_x_y": [
+        48.8292071873,
+        2.41301158121
+      ],
+      "nom_ev": "Bois de Vincennes (lac daumesnil)",
+      "genre": "Platanus",
+      "nom_commun": "Platane commun",
+      "circonf": 490.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.41301158121,
+        48.8292071873
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "8f0faf1af4b9d0e9d115ba341b1b2e4bde9d4f1b",
+    "fields": {
+      "annee_pla": "1875",
+      "objectid": 94,
+      "adresse": "avenue Daumesnil, Esplanade du Ch\u00e2teau de Vincennes",
+      "espece": "virginiana",
+      "arrondisse": "12",
+      "hauteur": 14.0,
+      "geom_x_y": [
+        48.8400754064,
+        2.43381509843
+      ],
+      "nom_ev": "Bois de Vincennes (square Carnot)",
+      "genre": "Diospyros",
+      "nom_commun": "Plaqueminier de Virginie",
+      "circonf": 180.0,
+      "famille": "Ebenaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.43381509843,
+        48.8400754064
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "3ccc08f1797e1d622b0b5360231d720691eeaa47",
+    "fields": {
+      "annee_pla": "1860",
+      "objectid": 98,
+      "adresse": "route de Gravelle, route du Mar\u201achal Leclerc (Saint Maurice)",
+      "espece": "ilex",
+      "arrondisse": "12",
+      "hauteur": 15.0,
+      "geom_x_y": [
+        48.8183933679,
+        2.43791766754
+      ],
+      "genre": "Quercus",
+      "nom_commun": "Ch\u00eane vert",
+      "nom_ev": "Bois de Vincennes (pente de Gravelle)",
+      "famille": "Fagaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.43791766754,
+        48.8183933679
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "6059ba1aa7e0f749f0d1f832622d70b77ab4e2d7",
+    "fields": {
+      "annee_pla": "1935",
+      "objectid": 2,
+      "adresse": "Place St Gervais",
+      "espece": "carpinifolia",
+      "arrondisse": "4",
+      "hauteur": 15.0,
+      "geom_x_y": [
+        48.8557581795,
+        2.35399582218
+      ],
+      "nom_ev": "Place Saint Gervais",
+      "genre": "Ulmus",
+      "nom_commun": "Orme champ\u00eatre",
+      "circonf": 180.0,
+      "famille": "Ulmaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.35399582218,
+        48.8557581795
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "4b23e93bc5e10c8c816feb250abb981ae4343e23",
+    "fields": {
+      "annee_pla": "1905",
+      "variete": "Tortuosa",
+      "objectid": 3,
+      "adresse": "Rue des Ar\u00eanes, rue de Navarre, rue Monge",
+      "espece": "sylvatica",
+      "arrondisse": "5",
+      "hauteur": 2.0,
+      "geom_x_y": [
+        48.845305003099995,
+        2.35307565328
+      ],
+      "nom_ev": "Square des Ar\u00e8nes de Lut\u00e8ce",
+      "genre": "Fagus",
+      "nom_commun": "Faux de Verzy",
+      "circonf": 72.0,
+      "famille": "Fagaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.35307565328,
+        48.845305003099995
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "090e974e3877ee0e8038128aa11e14d725e2f10a",
+    "fields": {
+      "annee_pla": "1879",
+      "objectid": 15,
+      "adresse": "Rue Lacharri\u00e8re, rue Rochebrune, rue du G\u00e9n\u00e9ral-Guilhem, rue du G\u00e9n\u00e9ral-Blaise",
+      "espece": "colurna",
+      "arrondisse": "11",
+      "hauteur": 20.0,
+      "geom_x_y": [
+        48.8618464812,
+        2.37910176561
+      ],
+      "nom_ev": "Square Maurice Gardette",
+      "genre": "Corylus",
+      "nom_commun": "Noisetier de Byzance",
+      "circonf": 245.0,
+      "famille": "Betulaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.37910176561,
+        48.8618464812
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "10e9a81ec175406d86b189d0ba9a83179ef82e1d",
+    "fields": {
+      "annee_pla": "1895",
+      "variete": "Purpurea",
+      "objectid": 18,
+      "adresse": "Cours Marigny",
+      "espece": "sylvatica",
+      "arrondisse": "12",
+      "hauteur": 23.0,
+      "geom_x_y": [
+        48.8420426954,
+        2.43848438671
+      ],
+      "nom_ev": "Bois de Vincennes (Cours Marigny)",
+      "genre": "Fagus",
+      "nom_commun": "H\u00eatre pourpre",
+      "circonf": 370.0,
+      "famille": "Fagaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.43848438671,
+        48.8420426954
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "fe7218f4265251e38c8345e0e5a5d160a6d28c23",
+    "fields": {
+      "annee_pla": "1829",
+      "objectid": 22,
+      "adresse": "route de la Tourelle, route du Point de Vue",
+      "espece": "libanii",
+      "arrondisse": "12",
+      "hauteur": 30.0,
+      "geom_x_y": [
+        48.820124983499994,
+        2.4452439361299994
+      ],
+      "nom_ev": "Bois de Vincennes (lac de Gravelle)",
+      "genre": "Cedrus",
+      "nom_commun": "C\u00e8dre du Liban",
+      "circonf": 440.0,
+      "famille": "Pinaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.4452439361299994,
+        48.820124983499994
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "04a01fb0b999b4bc7347f05c8c1dd65b70cdec74",
+    "fields": {
+      "annee_pla": "1895",
+      "objectid": 32,
+      "adresse": "3 avenue de la Porte d'Auteuil, 1 avenue Gordon Benett",
+      "espece": "suber",
+      "arrondisse": "16",
+      "hauteur": 10.0,
+      "geom_x_y": [
+        48.8471789821,
+        2.25293802515
+      ],
+      "nom_ev": "Jardin des Serres d'Auteuil",
+      "genre": "Quercus",
+      "nom_commun": "Ch\u00eane li\u00e8ge",
+      "circonf": 180.0,
+      "famille": "Fagaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.25293802515,
+        48.8471789821
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "38b1ac6cbef8c03b95c3dae7e266219c9d2b2dac",
+    "fields": {
+      "objectid": 33,
+      "adresse": "Rue Mirabeau, avenue de Versailles",
+      "espece": "papyrifera",
+      "arrondisse": "16",
+      "hauteur": 12.0,
+      "geom_x_y": [
+        48.8450859307,
+        2.26948936839
+      ],
+      "nom_ev": "Parc Sainte Perinne",
+      "genre": "Broussonetia",
+      "nom_commun": "Murier \u00e0 papier",
+      "circonf": 190.0,
+      "famille": "Moraceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.26948936839,
+        48.8450859307
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "7aa5ce9dfa57699f5ae1e13cab349980871f7920",
+    "fields": {
+      "annee_pla": "1862",
+      "objectid": 37,
+      "adresse": "All\u201ae de Longchamp, carrefour des cascades",
+      "espece": "libanii",
+      "arrondisse": "16",
+      "hauteur": 30.0,
+      "geom_x_y": [
+        48.8634848878,
+        2.2403752961
+      ],
+      "nom_ev": "Bois de Boulogne (r\u00e9servoir de la grande cascade)",
+      "genre": "Cedrus",
+      "nom_commun": "C\u00e8dre du Liban",
+      "circonf": 460.0,
+      "famille": "Pinaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2403752961,
+        48.8634848878
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "096d96f6a46ab14d6a994eedaf13cd79e2a2e167",
+    "fields": {
+      "annee_pla": "1857",
+      "objectid": 42,
+      "adresse": "Place Saint-Pierre, rue Ronsard, rue Paul-Albert, rue Maurice Utrillo",
+      "espece": "orientalis",
+      "arrondisse": "18",
+      "hauteur": 27.0,
+      "geom_x_y": [
+        48.8845880534,
+        2.34391859224
+      ],
+      "nom_ev": "Square Louise Michel",
+      "genre": "Platanus",
+      "nom_commun": "Platane d'Orient",
+      "circonf": 470.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.34391859224,
+        48.8845880534
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "53b5a75ae8768bc4ad3fc4ea8709e74e631c51b1",
+    "fields": {
+      "annee_pla": "1945",
+      "objectid": 43,
+      "adresse": "Place Stalingrad",
+      "espece": "tomentosa",
+      "arrondisse": "19",
+      "hauteur": 20.0,
+      "geom_x_y": [
+        48.8830346813,
+        2.37007425143
+      ],
+      "nom_ev": "Place de la bataille de Stalingrad",
+      "genre": "Tilia",
+      "nom_commun": "Tilleul argent\u00e9",
+      "circonf": 205.0,
+      "famille": "Malvaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.37007425143,
+        48.8830346813
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "8fe98b00afa4bbded554e3e2a03da6db42daa49c",
+    "fields": {
+      "annee_pla": "1880",
+      "objectid": 51,
+      "adresse": "148 boulevard de Charonne",
+      "espece": "x acerifolia",
+      "arrondisse": "20",
+      "hauteur": 20.0,
+      "geom_x_y": [
+        48.85646631,
+        2.39469777758
+      ],
+      "nom_ev": "Alignement 148 boulevard de Charonne",
+      "genre": "Platanus",
+      "nom_commun": "Platane commun",
+      "circonf": 395.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.39469777758,
+        48.85646631
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "47f201bc4f01e46ed41ae13b1edd5f39a8e38a61",
+    "fields": {
+      "annee_pla": "1905",
+      "objectid": 54,
+      "adresse": "3 avenue de la Porte d'Auteuil, 1 avenue Gordon Benett",
+      "espece": "stenoptera",
+      "arrondisse": "16",
+      "hauteur": 30.0,
+      "geom_x_y": [
+        48.84716534039999,
+        2.25199572129
+      ],
+      "nom_ev": "Jardin des Serres d'Auteuil",
+      "genre": "Pterocarya",
+      "nom_commun": "Pt\u00e9rocarya de Chine",
+      "circonf": 530.0,
+      "famille": "Juglandaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.25199572129,
+        48.84716534039999
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "a8d2789590b8f384ce85d4cfa5a8819d8e4455ba",
+    "fields": {
+      "variete": "Glauca pendula",
+      "objectid": 62,
+      "espece": "atlantica",
+      "arrondisse": "16",
+      "hauteur": 6.0,
+      "geom_x_y": [
+        48.867221687,
+        2.27027693483
+      ],
+      "nom_ev": "Square Debussy",
+      "genre": "Cedrus",
+      "nom_commun": "C\u00e8dre bleu de l'Atlas ple",
+      "circonf": 195.0,
+      "famille": "Pinaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.27027693483,
+        48.867221687
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "7c8de253fb6d36f8514f9bfc0a3ea38f6d6d6dd6",
+    "fields": {
+      "annee_pla": "1868",
+      "variete": "Pendula",
+      "objectid": 70,
+      "adresse": "All\u00e9e de Longchamp, route de S\u00e8vres \u00e0 Neuilly",
+      "espece": "sylvatica",
+      "arrondisse": "16",
+      "hauteur": 15.0,
+      "geom_x_y": [
+        48.8731203887,
+        2.24884917245
+      ],
+      "nom_ev": "Bois de Boulogne (Bagatelle)",
+      "genre": "Fagus",
+      "nom_commun": "H\u00eatre pleureur",
+      "circonf": 230.0,
+      "famille": "Fagaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.24884917245,
+        48.8731203887
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "b550dc2e11dca83a16581f06c4a7a0765b34daac",
+    "fields": {
+      "annee_pla": "1906",
+      "objectid": 71,
+      "adresse": "All\u00e9e de Longchamp, route de S\u00e8vres \u00e0 Neuilly",
+      "espece": "involucrata",
+      "arrondisse": "16",
+      "hauteur": 12.0,
+      "geom_x_y": [
+        48.8732545226,
+        2.2488654377499997
+      ],
+      "nom_ev": "Bois de Boulogne (Bagatelle)",
+      "genre": "Davidia",
+      "nom_commun": "Arbre aux pochettes",
+      "circonf": 120.0,
+      "famille": "Cornaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2488654377499997,
+        48.8732545226
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "563e6842cc38e6cc02ea5f90e90e7bb7a471024b",
+    "fields": {
+      "annee_pla": "1815",
+      "objectid": 80,
+      "espece": "petraea",
+      "arrondisse": "12",
+      "hauteur": 31.0,
+      "geom_x_y": [
+        48.8433252639,
+        2.4497117757
+      ],
+      "nom_ev": "Bois de Vincennes (fort neuf)",
+      "genre": "Quercus",
+      "nom_commun": "Ch\u00eane rouve",
+      "circonf": 450.0,
+      "famille": "Fagaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.4497117757,
+        48.8433252639
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "5f334b0c5edeadb16dd04024068e5810151868bb",
+    "fields": {
+      "annee_pla": "1860",
+      "objectid": 90,
+      "adresse": "Ile de Bercy",
+      "espece": "x acerifolia",
+      "arrondisse": "12",
+      "hauteur": 42.0,
+      "geom_x_y": [
+        48.8323806372,
+        2.41052012477
+      ],
+      "nom_ev": "Bois de Vincennes (\u0152le de Bercy)",
+      "genre": "Platanus",
+      "nom_commun": "Platane commun",
+      "circonf": 405.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.41052012477,
+        48.8323806372
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "92e34c9605cf39e197e2193ac9cdf79473157dfb",
+    "fields": {
+      "annee_pla": "1935",
+      "objectid": 93,
+      "adresse": "Ile de Bercy",
+      "espece": "virginiana",
+      "arrondisse": "12",
+      "hauteur": 12.0,
+      "geom_x_y": [
+        48.8314334738,
+        2.4115101993
+      ],
+      "genre": "Diospyros",
+      "nom_commun": "Plaqueminier de Virginie",
+      "nom_ev": "Bois de Vincennes (\u0152le de Bercy)",
+      "famille": "Ebenaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.4115101993,
+        48.8314334738
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "5454f28573fec23f179f5b24a80898cecdce87b0",
+    "fields": {
+      "objectid": 96,
+      "adresse": "Route de la Ferme, route de la Pyramide",
+      "espece": "coulteri",
+      "arrondisse": "12",
+      "hauteur": 14.0,
+      "geom_x_y": [
+        48.8210086122,
+        2.45551492936
+      ],
+      "nom_ev": "Arboretum Ecole du Breuil",
+      "genre": "Pinus",
+      "nom_commun": "Pin aux grands c\u00f4nes",
+      "circonf": 225.0,
+      "famille": "Pinaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.45551492936,
+        48.8210086122
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "8bf05c624ebbaf1b88d71e097cf961335024b574",
+    "fields": {
+      "annee_pla": "1814",
+      "objectid": 9,
+      "adresse": "Boulevard de Courcelles, avenue V\u201alasquez, avenue Van-Dyck, avenue Ruysdael",
+      "espece": "orientalis",
+      "arrondisse": "8",
+      "hauteur": 31.0,
+      "geom_x_y": [
+        48.8785456147,
+        2.3075757604699993
+      ],
+      "nom_ev": "Parc Monceau",
+      "genre": "Platanus",
+      "nom_commun": "Platane d'Orient",
+      "circonf": 700.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.3075757604699993,
+        48.8785456147
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "00584d222c6a7b84b017c9854a41c7002076bc4c",
+    "fields": {
+      "annee_pla": "1900",
+      "objectid": 13,
+      "adresse": "Cours-la-Reine, avenue Franklin-D.-Roosevelt, avenue Matignon, avenue Gabriel",
+      "espece": "orientalis",
+      "arrondisse": "8",
+      "hauteur": 20.0,
+      "geom_x_y": [
+        48.8652536076,
+        2.31333976248
+      ],
+      "nom_ev": "Jardin des Champs Elys\u00e9es",
+      "genre": "Platanus",
+      "nom_commun": "Platane d'Orient",
+      "circonf": 480.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.31333976248,
+        48.8652536076
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "1b51c81366b4bc5ac8236dcbb5511a8bf852863a",
+    "fields": {
+      "annee_pla": "1895",
+      "objectid": 31,
+      "adresse": "3 avenue de la Porte d'Auteuil, 1 avenue Gordon Benett",
+      "espece": "biloba",
+      "arrondisse": "16",
+      "hauteur": 25.0,
+      "geom_x_y": [
+        48.8476260928,
+        2.25278179131
+      ],
+      "nom_ev": "Jardin des Serres d'Auteuil",
+      "genre": "Ginkgo",
+      "nom_commun": "Arbre aux quarante \u00e9cus",
+      "circonf": 395.0,
+      "famille": "Ginkgoaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.25278179131,
+        48.8476260928
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "13958213885e5e63a471069bb3d233174c54783d",
+    "fields": {
+      "objectid": 34,
+      "adresse": "Place du Trocad\u201aro et du 11 Novembre, rue Benjamin Franklin, avenue Albert de Mun",
+      "espece": "colurna",
+      "arrondisse": "16",
+      "hauteur": 20.0,
+      "geom_x_y": [
+        48.861574817,
+        2.2910717819
+      ],
+      "nom_ev": "Jardin du Trocad\u00e9ro",
+      "genre": "Corylus",
+      "nom_commun": "Noisetier de Byzance",
+      "circonf": 260.0,
+      "famille": "Betulaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2910717819,
+        48.861574817
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "d296d595285e62bb26e848887273610e3aff40e5",
+    "fields": {
+      "annee_pla": "1772",
+      "objectid": 36,
+      "adresse": "All\u00e9e de Longchamp, route de S\u00e8vres \u00e0 Neuilly",
+      "espece": "baccata",
+      "arrondisse": "16",
+      "hauteur": 13.0,
+      "geom_x_y": [
+        48.8708601366,
+        2.24769299518
+      ],
+      "nom_ev": "Bois de Boulogne (Bagatelle)",
+      "genre": "Taxus",
+      "nom_commun": "If commun",
+      "circonf": 235.0,
+      "famille": "Taxaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.24769299518,
+        48.8708601366
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "aba37fad1256371d00c91fd6ceed94fee84886a6",
+    "fields": {
+      "annee_pla": "1782",
+      "variete": "Purpurea",
+      "objectid": 38,
+      "adresse": "Route de la Grande Cascade, carrefour de la Croix Catelan",
+      "espece": "sylvatica",
+      "arrondisse": "16",
+      "hauteur": 30.0,
+      "geom_x_y": [
+        48.8646850734,
+        2.25360607406
+      ],
+      "nom_ev": "Bois de Boulogne (Pr\u00e9 Catelan)",
+      "genre": "Fagus",
+      "nom_commun": "H\u00eatre pourpre",
+      "circonf": 558.0,
+      "famille": "Fagaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.25360607406,
+        48.8646850734
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "5d12b2a47f60c547e552803332b2fe04d848f731",
+    "fields": {
+      "annee_pla": "1840",
+      "objectid": 41,
+      "adresse": "Place Charles Filion, rue Cardinet",
+      "espece": "x acerifolia",
+      "arrondisse": "17",
+      "hauteur": 30.0,
+      "geom_x_y": [
+        48.8880577555,
+        2.31595908796
+      ],
+      "nom_ev": "Square des Batignolles",
+      "genre": "Platanus",
+      "nom_commun": "Platane commun",
+      "circonf": 595.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.31595908796,
+        48.8880577555
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "f76100874105cd1d8660217ac494a3915929a516",
+    "fields": {
+      "objectid": 47,
+      "adresse": "Rue du repos, rue des Rondeaux",
+      "espece": "hippocastanum",
+      "arrondisse": "20",
+      "hauteur": 22.0,
+      "geom_x_y": [
+        48.859739693399995,
+        2.39997847741
+      ],
+      "nom_ev": "Cimeti\u00e8re du P\u00e8re Lachaise",
+      "genre": "Aesculus",
+      "nom_commun": "Marronnier d'Inde",
+      "circonf": 345.0,
+      "famille": "Sapindaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.39997847741,
+        48.859739693399995
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "f3141386afafbde9efdd0baa14e13acf3cb55d63",
+    "fields": {
+      "annee_pla": "1893",
+      "objectid": 64,
+      "espece": "biloba",
+      "arrondisse": "16",
+      "hauteur": 18.0,
+      "geom_x_y": [
+        48.8622517606,
+        2.26098883991
+      ],
+      "nom_ev": "Bois de Boulogne (Berge du lac inf\u00e9rieur)",
+      "genre": "Ginkgo",
+      "nom_commun": "Arbre aux quarante \u00e9cus",
+      "circonf": 215.0,
+      "famille": "Ginkgoaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.26098883991,
+        48.8622517606
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "b244b449df8e29e73d0017df1075ffbc19152420",
+    "fields": {
+      "annee_pla": "1865",
+      "objectid": 84,
+      "espece": "biloba",
+      "arrondisse": "12",
+      "hauteur": 25.0,
+      "geom_x_y": [
+        48.8336849895,
+        2.42111102704
+      ],
+      "nom_ev": "Bois de Vincennes (Ecole chiens guide d'aveugle)",
+      "genre": "Ginkgo",
+      "nom_commun": "Arbre aux quarante \u00e9cus",
+      "circonf": 255.0,
+      "famille": "Ginkgoaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.42111102704,
+        48.8336849895
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "7cc14b0bd92b25dcc59cd967701768fb302f16a8",
+    "fields": {
+      "annee_pla": "1882",
+      "objectid": 1,
+      "adresse": "Rue du Temple, rue de Bretagne, Rue Perr\u00e9e, rue Eug\u00e8ne-Spuller",
+      "espece": "colurna",
+      "arrondisse": "3",
+      "hauteur": 20.0,
+      "geom_x_y": [
+        48.8648376291,
+        2.36062929978
+      ],
+      "nom_ev": "Square du Temple",
+      "genre": "Corylus",
+      "nom_commun": "Noisetier de Byzance",
+      "circonf": 210.0,
+      "famille": "Betulaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.36062929978,
+        48.8648376291
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "2eff03dceebee1a2c9890e75622d74d252b6ccb7",
+    "fields": {
+      "objectid": 5,
+      "adresse": "Rue de Seine, rue Mazarine",
+      "espece": "bignonioides",
+      "arrondisse": "6",
+      "hauteur": 15.0,
+      "geom_x_y": [
+        48.856902513,
+        2.33666989768
+      ],
+      "nom_ev": "Square Gabriel Piern\u00e9",
+      "genre": "Catalpa",
+      "nom_commun": "Catalpa commun",
+      "circonf": 260.0,
+      "famille": "Bignoniaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.33666989768,
+        48.856902513
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "4345e47f0007dd9bfb5cb21923640dbebc41fbd2",
+    "fields": {
+      "annee_pla": "1814",
+      "objectid": 8,
+      "adresse": "Quai Branly, avenue de La Motte-Piquet, avenue de la Bourdonnais, avenue de Suffren",
+      "espece": "orientalis",
+      "arrondisse": "7",
+      "hauteur": 20.0,
+      "geom_x_y": [
+        48.8577766649,
+        2.29329076205
+      ],
+      "nom_ev": "Parc du Champs de Mars",
+      "genre": "Platanus",
+      "nom_commun": "Platane d'Orient",
+      "circonf": 700.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.29329076205,
+        48.8577766649
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "d3fe1e5091dac75df581de6bbdb04f52fe622963",
+    "fields": {
+      "annee_pla": "1865",
+      "variete": "Pendula",
+      "objectid": 20,
+      "adresse": "avenue Daumesnil, Esplanade du Ch\u00e2teau de Vincennes",
+      "espece": "sylvatica",
+      "arrondisse": "12",
+      "hauteur": 20.0,
+      "geom_x_y": [
+        48.8399672948,
+        2.43375148978
+      ],
+      "nom_ev": "Bois de Vincennes (square Carnot)",
+      "genre": "Fagus",
+      "nom_commun": "H\u00eatre pleureur",
+      "circonf": 530.0,
+      "famille": "Fagaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.43375148978,
+        48.8399672948
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "05746e0125cd6f9ecb8d45eb7fc7bdb4999deb32",
+    "fields": {
+      "annee_pla": "1939",
+      "variete": "Glauca",
+      "objectid": 24,
+      "adresse": "128-160 avenue de Choisy, rue Georges-Eastman, rue Charles-Moureu, rue du Docteur-Magn",
+      "espece": "atlantica",
+      "arrondisse": "13",
+      "hauteur": 25.0,
+      "geom_x_y": [
+        48.827737189,
+        2.3592096955
+      ],
+      "nom_ev": "Parc de Choisy",
+      "genre": "Cedrus",
+      "nom_commun": "C\u00e8dre bleu de l'Atlas",
+      "circonf": 350.0,
+      "famille": "Pinaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.3592096955,
+        48.827737189
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "28605d30a96e4d05f86c0d60d08013569f2a250c",
+    "fields": {
+      "annee_pla": "1852",
+      "objectid": 29,
+      "adresse": "Avenue Foch",
+      "espece": "carpinifolia",
+      "arrondisse": "16",
+      "hauteur": 30.0,
+      "geom_x_y": [
+        48.8723867386,
+        2.27912885453
+      ],
+      "nom_ev": "Avenue Foch",
+      "genre": "Zelkova",
+      "nom_commun": "Faux orme de Sib\u00e9rie",
+      "circonf": 395.0,
+      "famille": "Ulmaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.27912885453,
+        48.8723867386
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "d667c97b68e1e8f5e90c3af92bec1cd23b9a06a1",
+    "fields": {
+      "objectid": 35,
+      "adresse": "Place du Trocad\u201aro et du 11 Novembre, rue Benjamin Franklin, avenue Albert de Mun",
+      "espece": "tomentosa",
+      "arrondisse": "16",
+      "hauteur": 20.0,
+      "geom_x_y": [
+        48.8619170093,
+        2.2924448277
+      ],
+      "nom_ev": "Jardin du Trocad\u00e9ro",
+      "genre": "Paulownia",
+      "nom_commun": "Paulownia",
+      "circonf": 420.0,
+      "famille": "Paulowniaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2924448277,
+        48.8619170093
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "ccf084b73f6e3c9f9b847c5c2c153d6808da2a93",
+    "fields": {
+      "annee_pla": "1907",
+      "objectid": 39,
+      "adresse": "All\u00e9e de Longchamp, route de S\u00e8vres \u00e0 Neuilly",
+      "espece": "araucana",
+      "arrondisse": "16",
+      "hauteur": 9.0,
+      "geom_x_y": [
+        48.87161175779999,
+        2.2493365350599994
+      ],
+      "nom_ev": "Bois de Boulogne (Bagatelle)",
+      "genre": "Araucaria",
+      "nom_commun": "D\u00e9sespoir du singe",
+      "circonf": 140.0,
+      "famille": "Araucariaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2493365350599994,
+        48.87161175779999
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "be439cea6417d20faac7d1be2e73d469901e3f85",
+    "fields": {
+      "annee_pla": "1847",
+      "objectid": 40,
+      "adresse": "All\u00e9e de Longchamp, route de S\u00e8vres \u00e0 Neuilly",
+      "espece": "x acerifolia",
+      "arrondisse": "16",
+      "hauteur": 40.0,
+      "geom_x_y": [
+        48.8691433358,
+        2.24587597613
+      ],
+      "nom_ev": "Bois de Boulogne (Bagatelle)",
+      "genre": "Platanus",
+      "nom_commun": "Platane commun",
+      "circonf": 480.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.24587597613,
+        48.8691433358
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "d78733d9629e64af308c2efb8995e70a7bc1e538",
+    "fields": {
+      "annee_pla": "1859",
+      "objectid": 49,
+      "adresse": "Ile du lac inf\u00e9rieur",
+      "espece": "orientalis",
+      "arrondisse": "16",
+      "hauteur": 25.0,
+      "geom_x_y": [
+        48.8661956075,
+        2.26238964912
+      ],
+      "nom_ev": "Bois de Boulogne (\u00eele du lac inf\u00e9rieur)",
+      "genre": "Platanus",
+      "nom_commun": "Platane d'Orient",
+      "circonf": 375.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.26238964912,
+        48.8661956075
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "d514990ef814f569aa9f83db2627eef94f297183",
+    "fields": {
+      "objectid": 50,
+      "adresse": "Route de la Ferme, route de la Pyramide",
+      "espece": "carpinifolia",
+      "arrondisse": "12",
+      "hauteur": 12.0,
+      "geom_x_y": [
+        48.8215800145,
+        2.45494779675
+      ],
+      "nom_ev": "Arboretum de Ecole du Breuil",
+      "genre": "Zelkova",
+      "nom_commun": "Faux orme de Sib\u00e9rie",
+      "circonf": 245.0,
+      "famille": "Ulmaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.45494779675,
+        48.8215800145
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "2d056a328adcfcd887600b5012c1edb3e067af8e",
+    "fields": {
+      "annee_pla": "1852",
+      "objectid": 55,
+      "adresse": "Avenue Foch",
+      "espece": "x acerifolia",
+      "arrondisse": "16",
+      "hauteur": 30.0,
+      "geom_x_y": [
+        48.8727584235,
+        2.2873548507
+      ],
+      "nom_ev": "Avenue Foch",
+      "genre": "Platanus",
+      "nom_commun": "Platane commun",
+      "circonf": 525.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.2873548507,
+        48.8727584235
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "3c2feb13842475dbc229ccea03a8b942c21a2881",
+    "fields": {
+      "annee_pla": "1863",
+      "objectid": 66,
+      "adresse": "All\u00e9e de Longchamp, carrefour des cascades",
+      "espece": "grandiflora",
+      "arrondisse": "16",
+      "hauteur": 12.0,
+      "geom_x_y": [
+        48.85881897629999,
+        2.25832952119
+      ],
+      "genre": "Magnolia",
+      "nom_commun": "Magnolia \u00e0 grandes fleurs",
+      "nom_ev": "Bois de Boulogne (Berge du lac inf\u00e9rieur)",
+      "famille": "Magnoliaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.25832952119,
+        48.85881897629999
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "3a4ba8f61e6e1563937fbd5fa0f2b177d58e7240",
+    "fields": {
+      "annee_pla": "1896",
+      "objectid": 75,
+      "espece": "carpinifolia",
+      "arrondisse": "16",
+      "hauteur": 16.0,
+      "geom_x_y": [
+        48.86260617,
+        2.23782412563
+      ],
+      "nom_ev": "Bois de Boulogne (Moulin de Longchamp)",
+      "genre": "Zelkova",
+      "nom_commun": "Faux orme de Sib\u00e9rie",
+      "circonf": 260.0,
+      "famille": "Ulmaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.23782412563,
+        48.86260617
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "3771c389c29563066be676c9ff1670d9e032b542",
+    "fields": {
+      "annee_pla": "1918",
+      "objectid": 82,
+      "adresse": "avenue Daumesnil, Esplanade du Ch\u00e2teau de Vincennes",
+      "espece": "x acerifolia",
+      "arrondisse": "12",
+      "hauteur": 32.0,
+      "geom_x_y": [
+        48.8395160905,
+        2.43350820893
+      ],
+      "nom_ev": "Bois de Vincennes (Square Carnot)",
+      "genre": "Platanus",
+      "nom_commun": "Platane commun",
+      "circonf": 570.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.43350820893,
+        48.8395160905
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "5f99ea1a6cb69665a64065f89333a768fbb93718",
+    "fields": {
+      "annee_pla": "1860",
+      "objectid": 86,
+      "adresse": "route de la ceinture du Lac Daumesnil",
+      "espece": "orientalis",
+      "arrondisse": "12",
+      "hauteur": 22.0,
+      "geom_x_y": [
+        48.833545551,
+        2.4103369460599997
+      ],
+      "nom_ev": "Bois de Vincennes (Lac Daumesnil/porte Dor\u00e9e)",
+      "genre": "platanus",
+      "nom_commun": "Platane d'Orient",
+      "circonf": 475.0,
+      "famille": "Platanaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.4103369460599997,
+        48.833545551
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  },
+  {
+    "datasetid": "arbresremarquablesparis2011",
+    "recordid": "3734a40b430e90412d16fc7d81cd026ae59dd242",
+    "fields": {
+      "annee_pla": "1870",
+      "objectid": 91,
+      "adresse": "Ile de Bercy",
+      "espece": "opalus",
+      "arrondisse": "12",
+      "hauteur": 15.0,
+      "geom_x_y": [
+        48.8302532096,
+        2.41400587444
+      ],
+      "nom_ev": "Bois de Vincennes (\u0152le de Bercy)",
+      "genre": "Acer",
+      "nom_commun": "Erable d'Italie",
+      "circonf": 160.0,
+      "famille": "Sapindaceae"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.41400587444,
+        48.8302532096
+      ]
+    },
+    "record_timestamp": "2015-09-24T10:54:16+00:00"
+  }
+]
