@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
 
-public class WithoutSpark {
+public class Employees {
     public static void main(String[] args) {
         Data data = Data.loadData();
         double theta0 = 0;
@@ -15,7 +15,6 @@ public class WithoutSpark {
         double learningRate = 0.0000000000001;
         double m = data.getData().size();
         do {
-            System.err.println(theta0 + " " + theta1);
             double sum = 0;
             for(Map.Entry<Integer, Integer> elem: data.getData().entrySet()) {
                 sum += theta0 + theta1*elem.getKey() - elem.getValue();
@@ -33,6 +32,12 @@ public class WithoutSpark {
         } while(Math.abs(theta0 - previousTheta0) > learningRate && Math.abs(theta1 - previousTheta1) > learningRate);
         System.out.println("theta0="+theta0);
         System.out.println("theta1="+theta1);
+        int feature1 = 5000;
+        int feature2 = 40000;
+        double predict1 = theta0+feature1*theta1;
+        double predict2 = theta0+feature2*theta1;
+        System.out.println(feature1 + " -> " + predict1);
+        System.out.println(feature2 + " -> " + predict2);
     }
 
     static class Data {

@@ -5,6 +5,10 @@ import org.apache.spark.api.java.JavaDoubleRDD;
 import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
 import org.apache.spark.api.java.function.Function;
+
+import org.apache.spark.mllib.feature.StandardScaler;
+import org.apache.spark.mllib.feature.StandardScalerModel;
+import org.apache.spark.mllib.linalg.Vector;
 import org.apache.spark.mllib.linalg.Vectors;
 import org.apache.spark.mllib.regression.LabeledPoint;
 import org.apache.spark.mllib.regression.LinearRegressionModel;
@@ -15,7 +19,7 @@ import java.util.Arrays;
 
 public class Wine {
     public static void main(String[] args) {
-        SparkConf conf = new SparkConf().setAppName("Linear Regression Example").setMaster("local[1]");
+        SparkConf conf = new SparkConf().setAppName("Linear Regression Example").setMaster("local[*]");
         JavaSparkContext sc = new JavaSparkContext(conf);
 
         // Load and parse the data
@@ -32,13 +36,15 @@ public class Wine {
         ).cache();
 
         // Building the model
-        LinearRegressionWithSGD regression = new LinearRegressionWithSGD();
+        LinearRegressionWithSGD regression = new LinearRegressionWithSGD(0.001, 1000, 1.0);
         regression.setIntercept(true);
-        regression.optimizer().setStepSize(0.001);
         LinearRegressionModel model = regression.run(parsedData.rdd());
 
         // Test the model
-        System.out.println(model.predict(Vectors.dense(7.4,0.7,0,1.9,0.076,11,34,0.9978,3.51,0.56,9.4)));
-        System.out.println(model.predict(Vectors.dense(11.5,0.54,0.71,4.4,0.124,6,15,0.9984,3.01,0.83,11.8)));
+        System.out.println(model.predict(Vectors.dense(7.4,0.7,0,1.9,0.076,11,34,0.9978,3.51,0.56,9.4))); // 5
+        System.out.println(model.predict(Vectors.dense(6.9,0.765,0.02,2.3,0.063,35,63,0.9975,3.57,0.78,9.9))); // 5
+        System.out.println(model.predict(Vectors.dense(11.5,0.54,0.71,4.4,0.124,6,15,0.9984,3.01,0.83,11.8))); // 7
+        System.out.println(model.predict(Vectors.dense(5.6,0.85,0.05,1.4,0.045,12,88,0.9924,3.56,0.82,12.9))); // 8
+        System.out.println(model.predict(Vectors.dense(11.6,0.58,0.66,2.2,0.074,10,47,1.0008,3.25,0.57,9))); // 3
     }
 }
