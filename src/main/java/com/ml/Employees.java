@@ -10,8 +10,8 @@ public class Employees {
         Data data = Data.loadData();
         double theta0 = 0;
         double theta1 = 0;
-        double previousTheta0 = theta0;
-        double previousTheta1 = theta1;
+        double previousTheta0;
+        double previousTheta1;
         double learningRate = 0.0000000000001;
         double m = data.getData().size();
         do {
@@ -22,13 +22,15 @@ public class Employees {
             double tmpTheta0 = (theta0 - (learningRate * (1 / m) * sum));
             sum = 0;
             for(Map.Entry<Integer, Integer> elem: data.getData().entrySet()) {
-                sum += theta0 + theta1*elem.getKey() - elem.getValue() * elem.getKey();
+                sum += (theta0 + theta1*elem.getKey() - elem.getValue()) * elem.getKey();
             }
             double tmpTheta1 = (theta1 - (learningRate * (1 / m) * sum));
             previousTheta0 = theta0;
             previousTheta1 = theta1;
             theta0 = tmpTheta0;
             theta1 = tmpTheta1;
+            // System.out.println("theta0="+theta0);
+            // System.out.println("theta1="+theta1);
         } while(Math.abs(theta0 - previousTheta0) > learningRate && Math.abs(theta1 - previousTheta1) > learningRate);
         System.out.println("theta0="+theta0);
         System.out.println("theta1="+theta1);
